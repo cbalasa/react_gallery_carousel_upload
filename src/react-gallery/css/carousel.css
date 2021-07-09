@@ -1,0 +1,8 @@
+.fadeInSlide {
+	opacity: 1;
+	transition: opacity 1s;
+}
+.fadeOutSlide {
+	opacity: 0;
+	transition: opacity 1s;
+}
