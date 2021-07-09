@@ -7,7 +7,7 @@ All CSS is based on Tailwind CSS
 
 ## How to use
 
-Import ImageGallery.js in your component
+Import ImageGallery.js from folder "reat-gallery" in your component
 
 ### Carousel with popup
 
